@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SorokaVladimir
 - 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning R, SQL, Power BI
+- 🌱 I’m currently learning Python for Data Analysis, SQL and work with Power BI
 - 💞️ I’m looking to collaborate on Data Analysis projects
 - 📫 How to reach me e-mail: vladimir.ivanovi4.soroka@gmail.com
 
